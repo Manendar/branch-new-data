@@ -9,7 +9,7 @@ while(break_count < total_breaks):
     webbrowser.open("https://www.youtube.com/watch?v=2We-WLbmMkc")
     break_count = break_count + 1
 
-
+# this can be used anytime
 ##import ctypes
 ##import time
 ##
